@@ -1,0 +1,1 @@
+Insight 2: Maximum value in column discounted_price is 77990.0

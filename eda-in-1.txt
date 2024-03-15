@@ -1,0 +1,1 @@
+Insight 1: Mean value of column rating is 4.220468890892696

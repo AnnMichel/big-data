@@ -1,0 +1,1 @@
+Insight 3: Number of unique categories in column category is 187

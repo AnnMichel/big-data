@@ -1,0 +1,3 @@
+Cluster 0: 950 records
+Cluster 1: 124 records
+Cluster 2: 35 records
